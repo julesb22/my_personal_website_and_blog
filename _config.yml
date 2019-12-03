@@ -1,8 +1,7 @@
 # Site Settings
 title: Hello
 email: taniarascia@gmail.com
-description: >
-  A guide to getting started with Jekyll.
+description:  My Personal website
 baseurl: "/my_personal_website_and_blog"
 url: "https://julesb22.github.io"
 twitter_username: taniarascia
