@@ -1,0 +1,15 @@
+<aside>
+	<div class="home-name"> <a href="/" class="nav-bar-button">Jules Boiteux</a></div>
+	<div class="container-nav">
+			<nav>
+				<ul>
+					{% for page in site.pages %} {% if page.title %}
+					<li><a href="{{ page.url | prepend: site.baseurl }}" class="nav-bar-button">{{ page.title }}</a></li>
+					{% endif %} {% endfor %}
+					<li><a href="{{ "/blog" | prepend: site.baseurl }}">Blog</a></li>
+				</ul>
+				</li>
+				</ul>
+			</nav>
+	</div>
+</aside>

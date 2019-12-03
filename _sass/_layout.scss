@@ -1,0 +1,251 @@
+body {
+	margin: 0;
+	color: $font-color;
+	font-family: 'Fira Sans';
+	font-size: 1.1em;
+	line-height: 1.6;
+	-webkit-font-smoothing: antialiased;
+}
+
+.image {
+	border-radius: 22px;
+}
+
+.coming {
+	margin-top: 103px;
+
+}
+
+.test {
+	margin-left: -146px;
+  margin-right: 156px;
+	border-radius: 25px;
+}
+
+.test-1 {
+	margin-left: -223px;
+	margin-right: 83px;
+}
+
+.test-2 {
+	margin-left: -191px;
+	margin-right: 127px;
+}
+
+.test-3 {
+	margin-left: -118px;
+	margin-right: 129px;
+}
+
+
+
+.container-work {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 100px;
+}
+
+.description-company {
+	font-weight: bold;
+	font-size: 20px;
+	color: #000000;
+	margin-top: -17px;
+}
+
+.description-job {
+	color: #FF0000!important;
+	margin-top: -17px;
+}
+
+
+.image-work {
+// background: url("/Users/julesboiteux/Desktop/jekyll_tutorial/_images/hull_logo_black.png");
+background: grey;
+}
+
+.description-work {
+}
+
+.title {
+	color: black;
+	// margin-top: 47px;
+	font-family: 'Fira Sans';
+	padding-top: 11px;
+}
+
+.title-about {
+	color: black;
+	// margin-top: 47px;
+	font-family: 'Fira Sans';
+	margin-top: 111px;
+
+
+}
+
+.title-resources {
+	margin-left: -12px;
+}
+
+.container-about {
+
+}
+
+.grey-section {
+	background: rgba(196, 196, 196, 0.28);
+	border-radius: 8px;
+	padding-left: 34px;
+	padding-bottom: 5px;
+	margin-bottom: 45px;
+}
+
+.value-prop-black {
+// position: absolute;
+// top: 250px;
+// left: 217px;
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+color: #000000;
+font-size: 27px;
+
+}
+
+.value-prop-red {
+// position: relative;
+// top: 250px;
+// left: 303px;
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+color: #FF0000;
+font-size: 27px;
+margin-left: 7px;
+}
+
+.home-name {
+	padding: 16px;
+	font-family: 'Fira Sans';
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 19px;
+	color: black;
+	font-size: 29px;
+
+}
+
+.container-nav {
+	  position: absolute;
+    top: 30px;
+    left: 886px;
+}
+
+.nav-bar-button {
+	color: red;
+}
+
+.container-prop {
+		display: flex;
+	  flex-direction: row;
+	  position: absolute;
+		top: 310px;
+}
+
+h1,
+h2,
+h3 {
+	font-family: 'Fira Sans';
+	font-weight: 600;
+	color: $heading-font-color;
+	font-family: $heading-font;
+	line-height: 1.5;
+}
+h1 {
+	color: $main;
+	font-size: 2.5em;
+	a,
+	a:visited {
+		text-decoration: none;
+		color: $main;
+	}
+}
+h2 {
+	font-size: 2em;
+}
+a,
+a:visited {
+	color: black;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+header {
+	background: $header;
+	padding: 0px 15px;
+	text-align: center;
+	margin: 50px 0 0;
+	height: 50vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+main {
+	padding: 0 15px;
+	max-width: $content-width;
+	margin: 0 auto;
+}
+time {
+	color: #898989;
+}
+
+/* Aside */
+
+aside {
+	position: fixed;
+	top: 0;
+	left: 0;
+	background: #fff;
+	width: 100%;
+	z-index: 2;
+	border-bottom: 1px solid lighten($light, 30%);
+	box-shadow: 0px 1px 1px RGBA(4, 25, 54, .1);
+	nav {
+		max-width: 800px;
+		margin: 0 auto;
+		margin-top: -29px;
+		ul {
+			margin: 0;
+			padding: 0;
+			list-style: none;
+			li {
+				float: left;
+				position: relative;
+				a {
+					text-decoration: none;
+					display: block;
+					padding: 15px;
+					font-family: 'Fira Sans';
+					line-height: 20px;
+					margin-bottom: -1px;
+					box-shadow: 0;
+				}
+			}
+		}
+		&:after {
+			content: '';
+			display: table;
+			clear: both;
+		}
+	}
+}
+footer {
+	text-align: center;
+	padding: 40px;
+}
