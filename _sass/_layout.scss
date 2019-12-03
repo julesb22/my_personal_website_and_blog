@@ -9,6 +9,8 @@ body {
 
 .image {
 	border-radius: 22px;
+	margin-right: 135px;
+
 }
 
 .coming {
@@ -63,11 +65,11 @@ body {
 
 .image-work {
 // background: url("/Users/julesboiteux/Desktop/jekyll_tutorial/_images/hull_logo_black.png");
-background: grey;
+	background: grey;
 }
 
 .description-work {
-	margin-right: -166px;
+  margin-right: -228px;
 }
 
 .title {
@@ -133,8 +135,18 @@ font-size: 27px;
 margin-left: 7px;
 }
 
+.container-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	position: relative;
+  top: 6px;
+	// position:absolute;
+	// top:45px
+}
+
 .home-name {
-	padding: 16px;
+	padding: 4px;
 	font-family: 'Fira Sans';
 	font-style: normal;
 	font-weight: bold;
@@ -142,13 +154,16 @@ margin-left: 7px;
 	line-height: 19px;
 	color: black;
 	font-size: 29px;
+	position: relative;
+	top: -16px;
+	left: 10px;
 
 }
 
 .container-nav {
-	  position: absolute;
-    top: 30px;
-    left: 886px;
+	  // position: absolute;
+    // top: 30px;
+    // left: 886px;
 }
 
 .nav-bar-button {
@@ -160,6 +175,7 @@ margin-left: 7px;
 	  flex-direction: row;
 	  position: absolute;
 		top: 310px;
+		align-items: center;
 }
 
 h1,
@@ -213,7 +229,7 @@ time {
 
 aside {
 	position: fixed;
-	top: 0;
+	top: 19px;
 	left: 0;
 	background: #fff;
 	width: 100%;
@@ -224,6 +240,8 @@ aside {
 		max-width: 800px;
 		margin: 0 auto;
 		margin-top: -29px;
+		position: relative;
+    right: 10px;
 		ul {
 			margin: 0;
 			padding: 0;
