@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /my_personal_website_and_blog/about/
 ---
 
 <h3 class="title-about"> About me </h3>
