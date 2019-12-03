@@ -1,11 +1,11 @@
 # Site Settings
-title: Hello
-email: taniarascia@gmail.com
+title: Jules Boiteux
+email: julesboiteux@gmail.com
 description:  My Personal website
 baseurl: "/my_personal_website_and_blog"
 url: "https://julesb22.github.io"
-twitter_username: taniarascia
-github_username:  taniarascia
+twitter_username: jules_boiteux
+github_username:  julesb22
 # Build Settings
 sass:
   sass_dir: _sass
