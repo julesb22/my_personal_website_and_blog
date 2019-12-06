@@ -19,10 +19,10 @@ permalink: about/
   </div>
   <div class="grey-section">
     <h3 class="title"> Background </h3>
-    <p> 😃 Le Wagon, Batch #200, Paris, 2018 </p>
-    <p> 🤓 Growth Acceleration, Batch #1, Paris, 2018 </p>
-    <p> 😄 HEC Entrepreneurs, Paris, 2016-2017 </p>
-    <p> 🤔 Institut d’Optique Graduate School, Palaiseau, 2012-2016 </p>
-    <p> 😅 Engineering preparatory classes, Clermont-Ferrand, 2009-2012 </p>
+    <p> Le Wagon, Batch #200, Paris, 2018 </p>
+    <p> Growth Acceleration, Batch #1, Paris, 2018 </p>
+    <p> HEC Entrepreneurs, Paris, 2016-2017 </p>
+    <p> Institut d’Optique Graduate School, Palaiseau, 2012-2016 </p>
+    <p> Engineering preparatory classes, Clermont-Ferrand, 2009-2012 </p>
   </div>
 </div>
