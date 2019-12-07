@@ -1,33 +1,27 @@
----
-layout: page
-title: Work
-permalink: /work/
----
-
-<div class="container-work">
+I"�<div class="container-work">
   <div class="test">
-    <img src="{{ site.baseurl }}/img/hull_logo_black.png" alt="" class="image">
+    <img src="/my_personal_website_and_blog/img/hull_logo_black.png" alt="" class="image" />
   </div>
   <div class="description-work">
     <p class="description-company"> Hull 🚀 </p>
     <p> Atlanta, Paris </p>
     <p class="description-job"> Product Manager,<em> since March 2019 </em></p>
-    <p> Start-up developing a SaaS in BtoB aiming at unifying customer data across the go-to-market stack to help growth teams optimize their marketing and sales operations. <br>
+    <p> Start-up developing a SaaS in BtoB aiming at unifying customer data across the go-to-market stack to help growth teams optimize their marketing and sales operations. <br />
  Worked in a Product Team of 3 on Product Discovery, Product Strategy, Product Delivery and Product Launch across the Dashboard, Platform and Connectors Engineering Teams.
     </p>
   </div>
 </div>
 <div class="container-work">
   <div class="test-1">
-    <img src="{{ site.baseurl }}/img/andrew-neel-cckf4TsHAuw-unsplash.jpg" alt="" width="375px" height="250px" class="image">
+    <img src="/my_personal_website_and_blog/img/andrew-neel-cckf4TsHAuw-unsplash.jpg" alt="" width="375px" height="250px" class="image" />
   </div>
   <div class="description-work">
     <p class="description-company"> Freelance 🤓 </p>
     <p> Paris </p>
     <p class="description-job"> Product Management and Growth Marketing, <em> April 2018 - September 2018 </em></p>
-    <p> Various short-term missions in marketing and product for start-ups.<br>
+    <p> Various short-term missions in marketing and product for start-ups.<br />
 @DIG Publishing Lisbon :
-Shipping of a SaaS MVP without coding using Bubble.is <br>
+Shipping of a SaaS MVP without coding using Bubble.is <br />
 
 @Perfarmer, @Simplement Londres, @Uwave , @Quable:
 Cold mailing
@@ -40,7 +34,7 @@ Cold mailing
 </div>
 <div class="container-work">
   <div class="test-2">
-    <img src="{{ site.baseurl }}/img/marmeladeapp.png" alt="" width="300px" height="300px" class="image">
+    <img src="/my_personal_website_and_blog/img/marmeladeapp.png" alt="" width="300px" height="300px" class="image" />
   </div>
   <div class="description-work">
     <p class="description-company"> Marmelade app 👨 </p>
@@ -48,26 +42,26 @@ Cold mailing
     <p class="description-job"> Product Manager - BtoB Business Developement manager,<em> April 2018 - September 2018 </em></p>
     <p>Start-up from the Founders Program at Station F:
     Marmelade is the easiest communication channel to train your employees in a flexible way :
-    they can answer to questions while unlocking their smartphone. <br>
-    Implemented an in-house cohort analysis model and tools for analytics : Google Tag manager for the website, Google Play Console for the app. <br>
+    they can answer to questions while unlocking their smartphone. <br />
+    Implemented an in-house cohort analysis model and tools for analytics : Google Tag manager for the website, Google Play Console for the app. <br />
 BP and pitch deck for a seed funding (closed at 235 k) / Structured the BtoB sales pipeline.
     </p>
   </div>
 </div>
 <div class="container-work">
   <div class="test-3">
-    <img src="{{ site.baseurl }}/img/captila.png" alt="" width="300px" height="300px" class="image">
+    <img src="/my_personal_website_and_blog/img/captila.png" alt="" width="300px" height="300px" class="image" />
   </div>
   <div class="description-work">
     <p class="description-company"> Captila 🤯 </p>
     <p> Station F, Paris </p>
     <p class="description-job"> Co-founder and CEO,<em> February 2017 - April 2018 </em></p>
-    <p> SaaS enabling HR to measure reliable KPIs coming from deskless employees more frequently to help them set up action plans to better engagement, well-being and productivity.<br>
-    SaaS enabling HR to measure reliable KPIs coming from deskless employees more frequently to help them set up action plans to better engagement, well-being and productivity. <br>
-    More informations available on our medium page: https://medium.com/@jules.boiteux1. <br> To know more about what we do at Captila, read my interview (in French) on this link: http://bit.ly/33ZAQXk
+    <p> SaaS enabling HR to measure reliable KPIs coming from deskless employees more frequently to help them set up action plans to better engagement, well-being and productivity.<br />
+    SaaS enabling HR to measure reliable KPIs coming from deskless employees more frequently to help them set up action plans to better engagement, well-being and productivity.
 <!--More informations available on our medium page : https://medium.com/@jules.boiteux1 <br>
 
-To know more about what we do at Captila, read my interview (in French) at this link : https://fr.slideshare.net/mobile/SbastienBourguignon/portraitdestartuper-35-jules-boiteux-captila -->
+To know more about myself and what we do at Captila, read my interview (in French) at this link : https://fr.slideshare.net/mobile/SbastienBourguignon/portraitdestartuper-35-jules-boiteux-captila -->
     </p>
   </div>
 </div>
+:ET
