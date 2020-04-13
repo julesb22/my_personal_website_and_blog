@@ -22,7 +22,7 @@ permalink: /resources/
   <div class="grey-section">
     <h3 class="title"> Influential Books 📚 </h3>
     <p> <em> Innovation, Entrepreneur:</em> The Lean Product Playbook, Lean startup, Rework</p>
-    <p> <em> Personal development: </em> The 80/20 principle, Deep Work, The Power of Habit, Unlimited power </p>
-    <p> <em> Marketing: </em> Start with why </p>
+    <p> <em> Personal development: </em> The 80/20 principle, Deep Work, The Power of Habit, Unlimited power, Atomic Habits </p>
+    <p> <em> Marketing: </em> Start with why, Influence et Persuasion </p>
   </div>
 </div>

@@ -6,10 +6,22 @@ permalink: /work/
 
 <div class="container-work">
   <div class="test">
+    <img src="/img/livestorm_logo.png" alt="">
+  </div>
+  <div class="description-work">
+    <p class="description-company"> Livestorm </p>
+    <p> Paris </p>
+    <p class="description-job"> Product Manager,<em> since March 2020 </em></p>
+    <p> Start-up developping the one-stop shop for meetings, webinars and all kinds of live events using video.
+    </p>
+  </div>
+</div>
+<div class="container-work">
+  <div class="test">
     <img src="/img/hull_logo_black.png" alt="">
   </div>
   <div class="description-work">
-    <p class="description-company"> Hull 🚀 </p>
+    <p class="description-company"> Hull </p>
     <p> Atlanta, Paris </p>
     <p class="description-job"> Product Manager,<em> since March 2019 </em></p>
     <p> Start-up developing a SaaS in BtoB aiming at unifying customer data across the go-to-market stack to help growth teams optimize their marketing and sales operations. <br>
@@ -22,7 +34,7 @@ permalink: /work/
     <img src="/img/andrew-neel-cckf4TsHAuw-unsplash.jpg" alt="" width="375px" height="250px" class="image">
   </div>
   <div class="description-work">
-    <p class="description-company"> Freelance 🤓 </p>
+    <p class="description-company"> Freelance </p>
     <p> Paris </p>
     <p class="description-job"> Product Management and Growth Marketing, <em> April 2018 - September 2018 </em></p>
     <p> Various short-term missions in marketing and product for start-ups.<br>
@@ -43,7 +55,7 @@ Cold mailing
     <img src="/img/marmeladeapp.png" alt="" width="300px" height="300px">
   </div>
   <div class="description-work">
-    <p class="description-company"> Marmelade app 👨 </p>
+    <p class="description-company"> Marmelade app </p>
     <p> Station F, Paris </p>
     <p class="description-job"> Product Manager - BtoB Business Developement manager,<em> April 2018 - September 2018 </em></p>
     <p>Start-up from the Founders Program at Station F:
@@ -59,7 +71,7 @@ BP and pitch deck for a seed funding (closed at 235 k) / Structured the BtoB sal
     <img src="/img/captila.png" alt="" width="300px" height="300px">
   </div>
   <div class="description-work">
-    <p class="description-company"> Captila 🤯 </p>
+    <p class="description-company"> Captila </p>
     <p> Station F, Paris </p>
     <p class="description-job"> Co-founder and CEO,<em> February 2017 - April 2018 </em></p>
     <p> SaaS enabling HR to measure reliable KPIs coming from deskless employees more frequently to help them set up action plans to better engagement, well-being and productivity. <br>
