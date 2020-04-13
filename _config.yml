@@ -1,12 +1,12 @@
 # Site Settings
-title: Start Jekyll
-email: taniarascia@gmail.com
+title: My personal website
+email: julesboiteux@gmail.communication
 description: >
-  A guide to getting started with Jekyll.
+  This is my personal website
 baseurl: ""
-url: "http://taniarascia.github.io"
-twitter_username: taniarascia
-github_username:  taniarascia
+url: "http://julesboiteux.github.io"
+twitter_username:
+github_username:
 # Build Settings
 sass:
   sass_dir: _sass
