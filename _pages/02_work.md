@@ -3,18 +3,7 @@ layout: page
 title: Work
 permalink: /work/
 ---
-<div class="container-work">
-  <div class="test">
-    <img src="{{ site.baseurl }}/img/hull_logo_black.png" alt="" class="image">
-  </div>
-  <div class="description-work">
-    <p class="description-company"> Hull 🚀 </p>
-    <p> Atlanta, Paris </p>
-    <p class="description-job"> Product Manager,<em> since March 2019 </em></p>
-    <p> Start-up developing a SaaS in BtoB aiming at unifying customer data across the go-to-market stack to help growth teams optimize their marketing and sales operations. <br>
- Worked in a Product Team of 3 on Product Discovery, Product Strategy, Product Delivery and Product Launch across the Dashboard, Platform and Connectors Engineering Teams.
-    </p>
-</div>
+
 <div class="container-work">
   <div class="test">
     <img src="{{ site.baseurl }}/img/hull_logo_black.png" alt="" class="image">
