@@ -9,7 +9,7 @@ permalink: /work/
   </div>
   <div class="description-work">
     <p class="description-company"> Livestorm </p>
-    <p> Atlanta, Paris </p>
+    <p> Paris </p>
     <p class="description-job"> Product Manager,<em> since March 2020 </em></p>
     <p> Start-up developping the one-stop shop for meetings, webinars and all kinds of live events using video.
     </p>
